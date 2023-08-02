@@ -3,7 +3,8 @@ import React from 'react'
 // import UseRef from './component/UseRef'
 // import UseReducer from './component/UseReducer'
 // import ContextApi from './component/Context/ContextApi'
-import UseContext from './component/UseContext'
+// import UseContext from './component/UseContext'
+import CustomHooks from './component/CustomHooks'
 const App = () => {
   return (
     <>
@@ -11,7 +12,8 @@ const App = () => {
     {/* <UseRef/> */}
     {/* <UseReducer/> */}
     {/* <ContextApi/> */}
-    <UseContext/>
+    {/* <UseContext/> */}
+    <CustomHooks/>
     </>
   )
 }
