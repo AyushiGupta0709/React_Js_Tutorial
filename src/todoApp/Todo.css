@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+.main-container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid red;
+    height: 100vh;
+
+
+}
+input{
+    width: 80%;
+    padding: 8px 15px;
+}
+.form-container{
+    border: 2px solid black;
+    height: 400px;
+    width: 400px;
+}
+.add{
+    margin: 5px;
+    padding: 8px 15px;
+
+}
