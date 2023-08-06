@@ -4,7 +4,7 @@ import React from 'react';
 // import UseReducer from './component/UseReducer'
 // import ContextApi from './component/Context/ContextApi'
 // import UseContext from './component/UseContext'
-import CustomHooks from './component/CustomHooks'
+// import CustomHooks from './component/CustomHooks'
 import TodoList from './todoApp/TodoList';
 const App = () => {
   return (

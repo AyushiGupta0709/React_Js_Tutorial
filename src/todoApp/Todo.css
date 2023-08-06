@@ -8,6 +8,7 @@
     justify-content: center;
     border: 2px solid red;
     height: 100vh;
+    background-color: rgb(206, 206, 255);
 
 
 }
@@ -19,9 +20,28 @@ input{
     border: 2px solid black;
     height: 400px;
     width: 400px;
+    background-color: white;
+    padding: 20px;
 }
 .add{
     margin: 5px;
     padding: 8px 15px;
 
+}
+.each-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    flex-direction: row;
+    width: 100%;
+    border: 1px solid grey;
+    height: 40px;
+    margin: 5px;
+}
+.del{
+    padding: 8px 15px;
+}
+.del-all{
+    margin: 20px;
 }
